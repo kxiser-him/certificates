@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sideloading.net/">
-    <img src="https://sideloading.net/logo.png" width="100" alt="KaiSideloading Logo">
+    <img src="[https://ibb.co/rKLkX33q]" width="100" alt="KaiSideloading Logo">
   </a>
 </p>
 
