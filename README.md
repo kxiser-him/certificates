@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://sideloading.net/">
-    <img src="https://sideloading.net/logo.png" width="100" alt="NexSideloading Logo">
+    <img src="https://sideloading.net/logo.png" width="100" alt="KaiSideloading Logo">
   </a>
 </p>
 
 <h1 align="center">
-  NexCerts - <a href="https://sideloading.net/">NexSideloading</a>
+  NexCerts - <a href="https://sideloading.net/">KaiSideloading</a>
 </h1>
 
 <p align="center">
@@ -81,4 +81,4 @@ View the certificate status [here](https://sideloading.net/certificates/)!
 ---
 
 # Disclaimer
-Apple or the certificate owner may revoke any of our Enterprise Certificates at any time, causing apps signed with revoked certificates to stop working on iOS devices. Please make sure you have installed our Anti-Revoke DNS: [NexDNS](https://sideloading.net/dns/) on your iDevice. Use of shared Enterprise Certificates must comply with Apple’s terms and policies. Contributors and maintainers of this repository are not responsible for any misuse, policy violations, or resulting damages, losses, or legal consequences.
+Apple or the certificate owner may revoke any of our Enterprise Certificates at any time, causing apps signed with revoked certificates to stop working on iOS devices. Please make sure you have installed NexSideloading’s Anti-Revoke DNS: [NexDNS](https://sideloading.net/dns/) on your iDevice. Use of shared Enterprise Certificates must comply with Apple’s terms and policies. Contributors and maintainers of this repository are not responsible for any misuse, policy violations, or resulting damages, losses, or legal consequences.
